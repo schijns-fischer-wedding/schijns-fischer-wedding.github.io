@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
 html, body {
   height: 100%;
   padding: 0;
@@ -17,4 +20,23 @@ html, body {
 
 main {
   flex: 1
+}
+
+.header {
+  h1, h2 {
+    font-family: 'Aboreto', cursive;
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.footer {
+  padding: 1rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Silkscreen', cursive;
 }
