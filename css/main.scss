@@ -25,6 +25,13 @@ main {
 
   .content {
     min-width: 65%;
+    margin: 0 1.5rem;
+  }
+
+  @media (min-width: 700px) {
+    .content {
+      max-width: 900px;
+    }
   }
 }
 
@@ -49,6 +56,11 @@ main {
     min-width: 65%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     font-family: 'Silkscreen', cursive;
+
+    a {
+      margin-right: 2rem;
+    }
   }
 }
