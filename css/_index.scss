@@ -28,8 +28,9 @@ main.home {
   justify-content: space-around;
 
   a.option {
-    font-family: 'Zen Tokyo Zoo', cursive;
-    font-size: 46px;
+    // font-family: 'Zen Tokyo Zoo', cursive;
+    font-family: 'Aboreto', cursive;
+    font-size: 36px;
     color: #069AA8;
     text-decoration: none;
 
@@ -39,7 +40,7 @@ main.home {
     }
   }
   a.option:hover {
-    color: #DA2A47;
+    color: rgba(218, 42, 71, 0.6);
     background-color: #069aa8;
   }
 }
