@@ -4,11 +4,13 @@
   <body>
     <div class='wedding-website'>
       {% include header.html %}
-      <main>
+      <div class='color-bar'></div>
+      <main class='{{ page.css_class }}'>
         <div class='content'>
           {{ content }}
         </div>
       </main>
+      <div class='color-bar'></div>
       {% include footer.html %}
     </div>
   </body>

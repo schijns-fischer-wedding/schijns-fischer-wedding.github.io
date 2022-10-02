@@ -1,24 +1,26 @@
 ---
 layout: home
+css_class: home
 ---
-<div class='content'>
-  <div>
-    <ul>
-      <li>
-        <a href='{% link pages/schedule.md %}'>Schedule</a>
-      </li>
-      <li>
-        <a href='{% link pages/things_to_do.md %}'>Things to do</a>
-      </li>
-      <li>
-        <a href='{% link pages/rsvp.md %}'>RSVP-ing</a>
-      </li>
-      <li>
-        <a href='{% link pages/getting_around.md %}'>Getting Around</a>
-      </li>
-      <li>
-        <a href='{% link pages/faq.md %}'>FAQ</a>
-      </li>
-    </ul>
+<div class='navigation-row'>
+  <div class='navigation'>
+    <a class='option' href='{% link pages/rsvp.md %}'>
+      <div>RSVP</div>
+    </a>
+    <a class='option' href='{% link pages/schedule.md %}'>
+      <div>Schedule</div>
+    </a>
+    <a class='option' href='{% link pages/things_to_do.md %}'>
+      <div>Things to do</div>
+    </a>
+    <a class='option' href='{% link pages/getting_around.md %}'>
+      <div>Getting Around</div>
+    </a>
+    <a class='option' href='{% link pages/faq.md %}'>
+      <div>FAQ</div>
+    </a>
+  </div>
+  <div class='home-image'>
   </div>
 </div>
+

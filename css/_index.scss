@@ -1,0 +1,55 @@
+main.home {
+  .content {
+    min-width: 75%;
+  }
+}
+
+.color-bar {
+  height: 3px;
+  background-color: #069AA8;
+}
+
+.navigation-row {
+  padding-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+@media (min-width: 1200px) {
+  .navigation-row {
+    display: grid;
+    grid-template-columns: max-content minmax(400px, 1fr);
+  }
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  a.option {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 46px;
+    color: #069AA8;
+    text-decoration: none;
+
+    div {
+      padding: 1rem 2rem;
+      margin: 0.25rem  0;
+    }
+  }
+  a.option:hover {
+    color: #DA2A47;
+    background-color: #069aa8;
+  }
+}
+
+.home-image {
+  background-image: url('https://www.dropbox.com/s/qugqs0ivq4tc1v7/D8AF0F96-D292-4D39-8193-CD066926F274_1_105_c.jpeg?raw=1');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 199, 201, 0.4);
+  min-height: 350px;
+}
+

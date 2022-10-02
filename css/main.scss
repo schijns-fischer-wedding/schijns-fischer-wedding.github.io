@@ -5,6 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 
 html, body {
   height: 100%;
@@ -35,20 +36,21 @@ main {
   }
 }
 
+.header, .footer {
+  background-color: #FFC7C9;
+  color: #002332;
+  padding: 2rem;
+}
+
 .header {
   h1, h2 {
     font-family: 'Aboreto', cursive;
     text-align: center;
-    margin-bottom: 0;
-  }
-
-  h2 {
-    margin-top: 0;
+    margin: 0;
   }
 }
 
 .footer {
-  padding: 1rem;
   display: flex;
   justify-content: center;
 
@@ -64,3 +66,5 @@ main {
     }
   }
 }
+
+@import 'index'
