@@ -25,7 +25,7 @@ Wilhelminapark 65, 3581 NP Utrecht
 
 After the ceremony we will make our way to the restaurant. It is a 20 min walk, or a 5 min bike ride. 
 It is also possible to take public transportation, we recommend bus 8 from Neude to Burg. Reigerstraat. 
-Let us know if you would like a buddy, we will find a Dutch person to travel with you. 
+Let us know if you would like a buddy, we will find a local to travel with you. 
 It is also possible to park near the restaurant. 
 
 
