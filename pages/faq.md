@@ -14,10 +14,10 @@ A *stukje* is a dutch interpretation of a speech, it may take any form you want.
 ##### **Is there a dress code?**  
 The event is semi-formal, we would like for you to feel a little fancy!  
 
-##### **Can I bring a plus one**   
+##### **Can I bring a plus one?**   
 Please only bring who was addressed on your invitation. If you have a question about this, feel free to contact us.  
 
-##### **Can I bring my kid**  
+##### **Can I bring my kid?**  
 We would love to have your kids present for our big day! We plan to have a longer dinner and we we understand that your kids need an adjusted menu or might not be entertained with this for long periods of time. If there is anything we can do to support you with this, we would love to help to see what's possible.  
 You're also very welcome to bring some games / toys to keep children entertained!  
 
