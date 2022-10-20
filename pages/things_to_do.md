@@ -47,7 +47,7 @@ title: Wedding Things to Do
 ### Our favorite stores  
 
 **spellen winkels**  
-  Utrecht is famous for the cluster of fantatsic gamestores, be sure to drop by the Joker, Neverneverland, and Subcultures.  
+  Utrecht is famous for the cluster of fantatsic gamestores, be sure to drop by the [Joker](http://www.the-joker.nl/), Neverneverland, and Subcultures.  
 
 **boekenwinkel**  
   Utrecht has numerous book stores, highlights are Broese, Boekhandel Bijleveld, and Savannah Bay. This last one is the successor to the first women's bookstore in the Netherlands.   
