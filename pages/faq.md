@@ -28,8 +28,8 @@ Please RSVP by February 19th, so we can have an accurate headcount.
 Yes! We would love for you to take photos and share them with us. Candid photos are our favorite, and after the wedding we'll send a link for everyone to add their photos to a shared online album.
 However, please refrain from taking photos during the ceremony. Our photographer will take care of all of that!  
 
-
-
+##### **What's up with stores on Thursday?**  
+Thursday May 18th is Ascension Day. This means that stores are mostly closed as if it were a Sunday. Keep this in mind when planning your time in Utrecht. 
 
 
 
