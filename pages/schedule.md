@@ -7,7 +7,7 @@ title:  Schedule
 
 #### Ceremony
 
-#### 19 May 2023 | 15.00
+#### 19 May 2023 | 16.00
 
 Utrecht City Hall, Grote Zaal (big hall)
 Stadhuisbrug 1, 3511 JK Utrecht
