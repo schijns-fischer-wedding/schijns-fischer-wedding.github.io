@@ -31,5 +31,7 @@ However, please refrain from taking photos during the ceremony. Our photographer
 ##### **What's up with stores on Thursday?**  
 Thursday May 18th is Ascension Day. This means that stores are mostly closed as if it were a Sunday. Keep this in mind when planning your time in Utrecht. 
 
+##### **Where is your wedding registry?**  
+Please no gifts, we just want to celebrate with those we love most. 
 
 
