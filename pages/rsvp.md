@@ -9,10 +9,10 @@ We work with the sophisticated system of "email Marijne, she keeps an excel beca
 
 Please include the following information in your RSVP email/text:   
 
-- People included in the RSVP  
+- Names of people included in the RSVP  
 - Dietary restrictions  
 - Ceremonie/dinner attendance  
-- Intention of long speeches/"bits" (see FAQ)  
+- Intention of long speeches/*[stukje](../faq.md)*  
 - Other notes  
 
 
