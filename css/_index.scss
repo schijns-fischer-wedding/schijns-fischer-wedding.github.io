@@ -6,7 +6,7 @@ main.home {
 
 .color-bar {
   height: 3px;
-  background-color: #069AA8;
+  background-color: #94D2BD;
 }
 
 .navigation-row {
@@ -31,7 +31,7 @@ main.home {
     // font-family: 'Zen Tokyo Zoo', cursive;
     font-family: 'Aboreto', cursive;
     font-size: 36px;
-    color: #069AA8;
+    color: #CBA540;
     text-decoration: none;
 
     div {
@@ -40,8 +40,8 @@ main.home {
     }
   }
   a.option:hover {
-    color: rgba(218, 42, 71, 0.6);
-    background-color: #069aa8;
+    color: #005F73;
+    background-color: #EFDFBA;
   }
 }
 
@@ -50,7 +50,7 @@ main.home {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: rgba(255, 199, 201, 0.4);
+  background-color: #94D2BD;
   min-height: 350px;
 }
 
