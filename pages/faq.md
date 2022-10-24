@@ -8,8 +8,8 @@ title: Wedding FAQ
 ##### **What language are we speaking?**  
 Our Dutch guests understand English, but some may feel more comfortable expressing themselves in Dutch. As this website suggests, we will make sure all necessary information is available in English. We encourage people to do speeches in whichever language they prefer, and to consider bringing a printed versions or send us an electronic version we can distribute in both languages.  
 
-##### **What is a "stukje" or "bit"? Can I do one?**  
-A *stukje* is a dutch interpretation of a speech, it may take any form you want. If it better suits your style you may perform a sketch, a (self written) song, or even a quiz for either guests or the bridal couple. If you are interested in doing a *stukje*, please let us know. There will be a microphone available, if  you need more than that, contact us.   
+##### **What is a *stukje*? Can I do one?**  
+A *stukje* is a dutch interpretation of a speech, it may take any form you want. If it better suits your style you may perform a sketch, a (self written) song, or even a quiz for either guests or the bridal couple. If you are interested in doing a *stukje*, please let us know. There will be a microphone available, contact us if  you need more than that.   
 
 ##### **Is there a dress code?**  
 The event is semi-formal, we would like for you to feel a little fancy!  
@@ -25,7 +25,7 @@ You're also very welcome to bring some games / toys to keep children entertained
 Please RSVP by February 19th, so we can have an accurate headcount.  
 
 ##### **Can I make pictures?**  
-Yes! We would love for you to take photos and share them with us. Candid photos are our favorite, and after the wedding we'll send a link for everyone to add their photos to a shared online album.
+Yes! We would love for you to take photos and share them with us. After the wedding we'll send a link for everyone to add their photos to a shared online album.
 However, please refrain from taking photos during the ceremony. Our photographer will take care of all of that!  
 
 ##### **What's up with stores on Thursday?**  
