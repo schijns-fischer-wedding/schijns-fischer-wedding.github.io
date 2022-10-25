@@ -22,7 +22,7 @@ title: Wedding RSVP
    <li>Other notes</li>
  </ul> 
  
-</div>
+
 
 
 
