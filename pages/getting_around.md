@@ -10,7 +10,7 @@ title: Wedding Getting Around
   For most purposes you should be able to get around using public transport. 
 </p>
   
-<h3>Public transport</p> 
+<h3>Public transport</h3> 
 <h4>OV card</h4>
 <p>
   If you plan to make use of the public transport system for more than a day, we recommend you to pick up an anonymous OV card. 
