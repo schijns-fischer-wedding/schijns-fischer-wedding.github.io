@@ -3,7 +3,7 @@ layout: page
 title: Wedding Things to Do
 ---
 
-# Things to Do
+## Things to Do
 
 ### Food & Drink  
 **[O'pannuozo](http://www.o-panuozzo.nl/)**  
@@ -15,10 +15,12 @@ title: Wedding Things to Do
   
 **[30 ML](https://30ml.nl/)**  
   Great brunch place (as recommended by Anne & Daan)  
-  On lunch breaks, Marijne goes here to pick up a bag of beans.  
+  On lunch breaks, Marijne goes here to pick up a bag of coffee beans.  
   
 **[Broodje Mario](https://broodjemario.nl/)**  
-  Sandwiches to go, classic Utrecht experience. No Utrecht experience is complete without a Broodje Mario. Note, there is no seating and they only accept cash.  
+  Sandwiches to go, classic Utrecht experience. No Utrecht experience is
+complete without a Broodje Mario. Note, there is no seating and they only accept
+cash.  
 
 **[Hop & Stork](https://hopenstork.com/)**  
   Fantastic coffee and chocolate  
@@ -39,8 +41,11 @@ title: Wedding Things to Do
   This is a [beautiful castle](https://www.kasteeldehaar.nl/), where once a year a Renaissance fair is organized; [Elfia](https://www.instagram.com/kingdomofelfia/?hl=en). One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
 
 **Woerden**  
-  If you would like to visit [Woerden](https://www.beleefwoerden.com/nl), Marijne's hometown, we recommend going on a sunny Saturday. You will not find a more pitoresque dutch town, it even has a windmill you can visit! If you want more Woerden specific tips, or even a personal tour, contact us.  
- 
+  If you would like to visit [Woerden](https://www.beleefwoerden.com/nl),
+Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
+more picturesque Dutch town, it even has a windmill you can visit! If you want
+more Woerden specific tips, or even a personal tour, contact us.  
+
 ### Our favorite stores  
 
 **Boardgame stores**  
