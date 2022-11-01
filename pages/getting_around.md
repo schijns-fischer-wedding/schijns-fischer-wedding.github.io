@@ -5,23 +5,32 @@ title: Wedding Getting Around
 
 <div class='class_01'>
 <h2>Getting Around</h2>
-<p>
-  A general note is that public transport and bikes are the go to method for getting around in Dutch cities, including Utrecht. 
-  For most purposes you should be able to get around using public transport. 
-</p>
   
 <h3>Public transport</h3> 
+  
+<p>
+  A general note is that public transport and bikes are the go-to method for 
+  getting around in all Dutch cities, including Utrecht. 
+  For most purposes public transport (OV) is a great option. 
+</p>
+  
 <p>
   <strong>OV card</strong>
   <br>
   If you plan to make use of the public transport system for more than a day, we
-  recommend you to pick up an anonymous OV card. You should be able to easily
+  recommend you to pick up an anonymous 
+  <a href="https://www.holland.com/global/tourism/information/public-transport/ov-chip-card-5.htm">ov card</a>. 
+  You should be able to easily
   obtain one at Schiphol. You can then put money on the OV card and travel as
-  much as you'd like. Note that for kids under tha age of 4 travel is free.  
+  much as you'd like. Note that travel is free for kids under the age of 4.  
+</p>
+  
+<p>
+  <strong>Apps</strong>
   <br>
-  <a href='https://www.holland.com/global/tourism/information/public-transport/ov-chip-card-5.htm'>
-    https://www.holland.com/global/tourism/information/public-transport/ov-chip-card-5.htm
-  </a>
+  Google maps works, but we also recommend installing the NS app. 
+  The NS is the principal railway operator, but their app also recommends 
+  routes by busses and trams. 
 </p>
 
 <p>
@@ -34,16 +43,17 @@ title: Wedding Getting Around
 <p>
   <strong>Bikes</strong>
   <br>
-  Some hotels may offer bike rentals, if not, there are many options out there.
-  It is great if you'd like to explore. For longer distances, >10 km we
-  recommend using an electric bike. Be careful with those though, they go fast.
+  Some hotels may offer bike rentals, but there are many options out there.
+  It is a great option if you'd like to explore the city as a local. For 
+  longer distances we recommend using an electric bike. Be careful with those 
+  though, they go fast.
 </p>
 
 <h3>Taxis</h3>
 <p>
   Uber is available, but they are not as common as in big cities in the US.
   <br>
-  Traditional Taxis: https://utc.nl/ - +31 030 777777
+  An example of a traditional taxi is <a href="https://utc.nl/">UTC</a>: +31 030 777777
 </p>
 
 <h3>Car rentals</h3>
@@ -55,8 +65,8 @@ park with them, this is not a given.
 <h3>Hotels</h3>
 
 <ul>
-  <li>NNH Utrecht City Centre </li>
-  <li>hotel beijers utrecht </li>
+  <li>NH Utrecht City Centre </li>
+  <li>Hotel Beijers Utrecht </li>
   <li>Mother Goose</li>
 </ul> 
   
