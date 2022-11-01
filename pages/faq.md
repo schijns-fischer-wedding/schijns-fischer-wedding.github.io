@@ -9,17 +9,16 @@ title: Wedding FAQ
  
 <h3>What language are we speaking?</h3>
 <p>
-  Our Dutch guests understand English, but some may feel more comfortable expressing themselves in Dutch. 
-  As this website suggests, we will make sure all necessary information is available in English. 
+  Our Dutch guests understand English, but some may feel more comfortable expressing themselves in Dutch.  
   We encourage people to do speeches in whichever language they prefer, 
   and to consider bringing a printed versions or send us an electronic version we can distribute in both languages.  
 </p>
   
-<h3>What is a *stukje*? Can I do one?</h3> 
+<h3>What is a <em>stukje</em>? Can I do one?</h3> 
 <p>
-  A *stukje* is a dutch interpretation of a speech, it may take any form you want. 
+  A <em>stukje</em> is a dutch interpretation of a speech, it may take any form you want. 
   If it better suits your style you may perform a sketch, a (self written) song, or even a quiz for either guests or the bridal couple. 
-  If you are interested in doing a *stukje*, please let us know. There will be a microphone available, contact us if  you need more than that. 
+  If you are interested in doing a <em>stukje</em>, please let us know. There will be a microphone available, contact us if  you need more than that. 
 </p>
 
 <h3>Is there a dress code?</h3>  
