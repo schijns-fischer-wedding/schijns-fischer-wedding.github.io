@@ -14,9 +14,9 @@ title: Wedding Getting Around
   For most purposes public transport (OV) is a great option. 
 </p>
   
+
+  <h4>OV card</h4>
 <p>
-  <strong>OV card</strong>
-  <br>
   If you plan to make use of the public transport system for more than a day, we
   recommend you to pick up an anonymous 
   <a href="https://www.holland.com/global/tourism/information/public-transport/ov-chip-card-5.htm">ov card</a>. 
@@ -25,24 +25,21 @@ title: Wedding Getting Around
   much as you'd like. Note that travel is free for kids under the age of 4.  
 </p>
   
+  <h4>Apps</h4>
 <p>
-  <strong>Apps</strong>
-  <br>
   Google maps works, but we also recommend installing the NS app. 
   The NS is the principal railway operator, but their app also recommends 
   routes by busses and trams. 
 </p>
 
+<h4>Schiphol to Utrecht</h4>
 <p>
-  <strong>Schiphol to Utrecht</strong>
-  <br>
   If you intend to use public transport purely to get to Utrecht Centraal, you
   could also buy a single-trip ticket at the NS vending machines.
 </p>
 
+<h4>Bikes</h4>
 <p>
-  <strong>Bikes</strong>
-  <br>
   Some hotels may offer bike rentals, but there are many options out there.
   It is a great option if you'd like to explore the city as a local. For 
   longer distances we recommend using an electric bike. Be careful with those 
