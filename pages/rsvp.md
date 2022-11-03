@@ -17,9 +17,9 @@ title: Wedding RSVP
  <ul>
    <li>Names of people included in the RSVP</li>
    <li>Attendence</li>
-   <li>Dietary restrictions <br/><br/>
-     Note that our assumption is that our guests prefer a vegetarion option.  <br/><br/>
-     Please inidcatie if you prefer having a fish option</li>
+   <li>Dietary restrictions <br/>
+     Note that our assumption is that our guests prefer a vegetarion option.  <br/>
+     Please indicate if you prefer having a fish option.</li>
    <li>Intention of speech or <a href="https://schijns-fischer-wedding.github.io/pages/faq.html">stukje</a> </li>
  </ul> 
  
