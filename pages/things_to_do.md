@@ -10,31 +10,31 @@ title: Wedding Things to Do
 <h3>Food & Drink</h3> 
 
 <p>
-  <strong style="color:#0A9396"><a href="http://www.o-panuozzo.nl/">O'pannuozo</a></strong></br> 
+  <strong style="color:#0A9396"><a href="http://www.o-panuozzo.nl/">O'pannuozo</a></strong><br> 
   Classic neapolitan pizzas.  
   This, in combination with a glass of wine at Talud9, is Marijne's favorite date-night!  
 </p>
   
 <p>
-  <strong style="color:#0A9396"><a href="https://www.talud9.nl/">Talud 9</a></strong></br>  
+  <strong style="color:#0A9396"><a href="https://www.talud9.nl/">Talud 9</a></strong><br>  
   Great for coffee and cake in the afternoon, even better for wine in the evening. 
 </p>
 
 <p>
-  <strong style="color:#0A9396"><a href="https://30ml.nl/">30 Ml</a></strong></br>  
+  <strong style="color:#0A9396"><a href="https://30ml.nl/">30 Ml</a></strong><br>  
   Great brunch place (as recommended by Anne & Daan)  
   On lunch breaks, Marijne goes here to pick up a bag of coffee beans.  
 </p>
 
 <p>
-  <strong style="color:#0A9396"><a href="https://broodjemario.nl/">Broodje Mario</a></strong></br>  
+  <strong style="color:#0A9396"><a href="https://broodjemario.nl/">Broodje Mario</a></strong><br>  
   Sandwiches to go, classic Utrecht experience. No Utrecht experience is
 complete without a Broodje Mario. Note, there is no seating and they only accept
 cash. 
 </p>
 
 <p>
-  <strong style="color:#0A9396"><a href="https://hopenstork.com/">Hop & Stork</a></strong></br>  
+  <strong style="color:#0A9396"><a href="https://hopenstork.com/">Hop & Stork</a></strong><br>  
   Fantastic coffee and chocolate. 
 </p>
 
@@ -54,13 +54,13 @@ cash.
 
 <h3>Day outings</h3> 
 <p>
-  <strong style="color:#0A9396">Kasteel de Haar</strong></br>  
+  <strong style="color:#0A9396">Kasteel de Haar</strong><br>  
   This is a <a href="https://www.kasteeldehaar.nl/">beautiful castle</a>, where once a year a Renaissance fair is organized; 
   <a href="https://www.instagram.com/kingdomofelfia/?hl=en">Elfia</a>. One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
 </p>
   
 <p>
-  <strong style="color:#0A9396">Woerden</strong></br>  
+  <strong style="color:#0A9396">Woerden</strong><br>  
   If you would like to visit <a href="https://www.beleefwoerden.com/nl">Woerden</a>,
   Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
   more picturesque Dutch town, it even has a windmill you can visit! If you want
@@ -70,7 +70,7 @@ cash.
 <h3>Our favorite stores</h3> 
 
 <p>
-  <strong style="color:#0A9396">Boardgame stores</strong></br>  
+  <strong style="color:#0A9396">Boardgame stores</strong><br>  
   Utrecht is famous for the cluster of fantatsic gamestores, be sure to 
   drop by the <a href="http://www.the-joker.nl/">Joker</a>,
   <a href="https://www.neverneverlandutrecht.nl">Neverneverland</a>, 
@@ -78,7 +78,7 @@ cash.
 </p>
 
 <p>
-  <strong style="color:#0A9396">Book stores</strong></br>  
+  <strong style="color:#0A9396">Book stores</strong><br>  
   Utrecht has numerous book stores, highlights are <a href="https://www.broese.nl/">Broese</a>, 
   <a href="https://www.boekhandelbijleveld.nl/">Boekhandel Bijleveld</a>, 
   and <a href="https://www.savannahbay.nl/">Savannah Bay</a>. 
@@ -86,7 +86,7 @@ cash.
 </p>
   
 <p>
-  <strong style="color:#0A9396">Swaak 1892</strong></br>  
+  <strong style="color:#0A9396">Swaak 1892</strong><br>  
   <a href="https://www.gerstaecker.nl/utrecht-2/">Swaak 1892</a> is one of Marijne's favorite art supplies stores.
 </p>
 
