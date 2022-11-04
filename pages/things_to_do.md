@@ -3,59 +3,92 @@ layout: page
 title: Wedding Things to Do
 ---
 
-## Things to Do
 
-### Food & Drink  
-**[O'pannuozo](http://www.o-panuozzo.nl/)**  
+<div class='class_01'>
+<h2>Things to Do</h2>
+  
+<h3>Food & Drink</h3> 
+
+<p>
+  <strong style="color:#0A9396"><a href="http://www.o-panuozzo.nl/">O'pannuozo</a></strong> 
   Classic neapolitan pizzas.  
   This, in combination with a glass of wine at Talud9, is Marijne's favorite date-night!  
-
-**[Talud 9](https://www.talud9.nl/)**  
-  Great for coffee and cake in the afternoon, even better for wine in the evening. 
+</p>
   
-**[30 ML](https://30ml.nl/)**  
+<p>
+  <strong style="color:#0A9396"><a href="https://www.talud9.nl/">Talud 9</a></strong> 
+  Great for coffee and cake in the afternoon, even better for wine in the evening. 
+</p>
+
+<p>
+  <strong style="color:#0A9396"><a href="https://30ml.nl/">30 Ml</a></strong> 
   Great brunch place (as recommended by Anne & Daan)  
   On lunch breaks, Marijne goes here to pick up a bag of coffee beans.  
-  
-**[Broodje Mario](https://broodjemario.nl/)**  
+</p>
+
+<p>
+  <strong style="color:#0A9396"><a href="https://broodjemario.nl/">Broodje Mario</a></strong> 
   Sandwiches to go, classic Utrecht experience. No Utrecht experience is
 complete without a Broodje Mario. Note, there is no seating and they only accept
-cash.  
+cash. 
+</p>
 
-**[Hop & Stork](https://hopenstork.com/)**  
-  Fantastic coffee and chocolate  
+<p>
+  <strong style="color:#0A9396"><a href="https://hopenstork.com/">Hop & Stork</a></strong> 
+  Fantastic coffee and chocolate. 
+</p>
 
-### Activities in Utrecht   
-- [Climbing the Dom tower](https://www.domtoren.nl/)  
-- [Centraal museum](https://www.centraalmuseum.nl/en) 
-- [Botanical gardens](https://www.uu.nl/en/utrecht-university-botanic-gardens)
-- [The Railway Museum](https://www.spoorwegmuseum.nl/en/)  
-- [Sonnenborgh Museum](https://www.sonnenborgh.nl/english)   
-- [Kayak/SUP](https://dagjesuppen.nl/en/) 
-- [City challenge](https://escapetours.com/stad/utrecht), an Escape tour
-- [Nijntje museum](https://nijntjemuseum.nl/?lang=en), most fun for kids 2-6 y/o
-- [De Ontdekhal](https://ontdekhal.nl/), most fun for kids 4-12 y/o
- 
-### Day outings  
-**Kasteel de Haar**  
-  This is a [beautiful castle](https://www.kasteeldehaar.nl/), where once a year a Renaissance fair is organized; [Elfia](https://www.instagram.com/kingdomofelfia/?hl=en). One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
+<h3>Activities in Utrecht</h3> 
 
-**Woerden**  
-  If you would like to visit [Woerden](https://www.beleefwoerden.com/nl),
-Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
-more picturesque Dutch town, it even has a windmill you can visit! If you want
-more Woerden specific tips, or even a personal tour, contact us.  
+<ul>
+   <li><a href="https://www.domtoren.nl/">Climbing the Dom tower</a></li>
+   <li><a href="https://www.uu.nl/en/utrecht-university-botanic-gardens">Botanical gardens</a></li>
+   <li><a href="https://www.centraalmuseum.nl/en">Centraal museum</a></li>
+   <li><a href="https://www.spoorwegmuseum.nl/en/">The Railway Museum</a></li>
+   <li><a href="https://www.sonnenborgh.nl/english">Sonnenborgh Museum</a></li>
+   <li><a href="https://dagjesuppen.nl/en/">Kayak/SUP</a></li>
+   <li><a href="https://escapetours.com/stad/utrecht">City challenge</a>, an Escape tour</li>
+   <li><a href="https://nijntjemuseum.nl/?lang=en">Nijntje museum</a>, most fun for kids 2-6 y/o</li>
+   <li><a href="https://ontdekhal.nl/">De Ontdekhal</a>, most fun for kids 4-12 y/o</li>
+ </ul> 
 
-### Our favorite stores  
+<h3>Day outings</h3> 
+<p>
+  <strong style="color:#0A9396">Kasteel de Haar</strong> 
+  This is a <a href="https://www.kasteeldehaar.nl/">beautiful castle</a>, where once a year a Renaissance fair is organized; 
+  <a href="https://www.instagram.com/kingdomofelfia/?hl=en">Elfia</a>. One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
+</p>
+  
+<p>
+  <strong style="color:#0A9396">Woerden</strong> 
+  If you would like to visit <a href="https://www.beleefwoerden.com/nl">Woerden</a>,
+  Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
+  more picturesque Dutch town, it even has a windmill you can visit! If you want
+  more Woerden specific tips, or even a personal tour, contact us.  
+</p>
 
-**Boardgame stores**  
-  Utrecht is famous for the cluster of fantatsic gamestores, be sure to drop by the [Joker](http://www.the-joker.nl/), [Neverneverland](https://www.neverneverlandutrecht.nl), and [Subcultures](https://www.subcultures.nl/).  
+<h3>Our favorite stores</h3> 
 
-**Book stores**  
-  Utrecht has numerous book stores, highlights are [Broese](https://www.broese.nl/), [Boekhandel Bijleveld](https://www.boekhandelbijleveld.nl/), and [Savannah Bay](https://www.savannahbay.nl/). This last one is the successor to the first women's bookstore in the Netherlands.   
+<p>
+  <strong style="color:#0A9396">Boardgame stores</strong> 
+  Utrecht is famous for the cluster of fantatsic gamestores, be sure to 
+  drop by the <a href="http://www.the-joker.nl/">Joker</a>,
+  <a href="https://www.neverneverlandutrecht.nl">Neverneverland</a>, 
+  and <a href="https://www.subcultures.nl/">Subcultures</a>.
+</p>
 
-**Swaak 1892**  
-  [Swaak 1892](https://www.gerstaecker.nl/utrecht-2/) is one of Marijne's favorite art supplies stores.
+<p>
+  <strong style="color:#0A9396">Book stores</strong> 
+  Utrecht has numerous book stores, highlights are <a href="https://www.broese.nl/">Broese</a>, 
+  <a href="https://www.boekhandelbijleveld.nl/">Boekhandel Bijleveld</a>, 
+  and <a href="https://www.savannahbay.nl/">Savannah Bay</a>. 
+  This last one is the successor to the first women's bookstore in the Netherlands.  
+</p>
+  
+<p>
+  <strong style="color:#0A9396">Swaak 1892</strong> 
+  <a href="https://www.gerstaecker.nl/utrecht-2/">Swaak 1892</a> is one of Marijne's favorite art supplies stores.
+</p>
 
  
 
