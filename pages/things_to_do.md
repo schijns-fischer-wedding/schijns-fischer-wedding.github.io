@@ -11,31 +11,30 @@ title: Wedding Things to Do
 
 <p>
   <strong style="color:#0A9396"><a href="http://www.o-panuozzo.nl/">O'pannuozo</a></strong><br> 
-  Classic neapolitan pizzas.  
+  O'pannuozo serves classic neapolitan pizzas.  
   This, in combination with a glass of wine at Talud9, is Marijne's favorite date-night!  
 </p>
   
 <p>
   <strong style="color:#0A9396"><a href="https://www.talud9.nl/">Talud 9</a></strong><br>  
-  Great for coffee and cake in the afternoon, even better for wine in the evening. 
+  Talud 9 is great for coffee and cake in the afternoon, even better for wine in the evening. 
 </p>
 
 <p>
   <strong style="color:#0A9396"><a href="https://30ml.nl/">30 Ml</a></strong><br>  
-  Great brunch place (as recommended by Anne & Daan)  
-  On lunch breaks, Marijne goes here to pick up a bag of coffee beans.  
+  Great brunch place (as recommended by Anne & Daan).  
+  On lunch breaks, Marijne goes here to pick up a bag of fancy coffee beans to enjoy at home.  
 </p>
 
 <p>
   <strong style="color:#0A9396"><a href="https://broodjemario.nl/">Broodje Mario</a></strong><br>  
-  Sandwiches to go, classic Utrecht experience. No Utrecht experience is
-complete without a Broodje Mario. Note, there is no seating and they only accept
-cash. 
+  Broodje Mario is a staple of the Utrecht experience. They serve big sandwiches to-go. 
+  Note that there is no seating and they only accept cash. 
 </p>
 
 <p>
   <strong style="color:#0A9396"><a href="https://hopenstork.com/">Hop & Stork</a></strong><br>  
-  Fantastic coffee and chocolate. 
+  This is the perfect place for afternoon coffee, they serve it with at great chocolate. 
 </p>
 
 <h3>Activities in Utrecht</h3> 
@@ -51,21 +50,6 @@ cash.
    <li><a href="https://nijntjemuseum.nl/?lang=en">Nijntje museum</a>, most fun for kids 2-6 y/o</li>
    <li><a href="https://ontdekhal.nl/">De Ontdekhal</a>, most fun for kids 4-12 y/o</li>
  </ul> 
-
-<h3>Day outings</h3> 
-<p>
-  <strong style="color:#0A9396">Kasteel de Haar</strong><br>  
-  This is a <a href="https://www.kasteeldehaar.nl/">beautiful castle</a>, where once a year a Renaissance fair is organized; 
-  <a href="https://www.instagram.com/kingdomofelfia/?hl=en">Elfia</a>. One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
-</p>
-  
-<p>
-  <strong style="color:#0A9396">Woerden</strong><br>  
-  If you would like to visit <a href="https://www.beleefwoerden.com/nl">Woerden</a>,
-  Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
-  more picturesque Dutch town, it even has a windmill you can visit! If you want
-  more Woerden specific tips, or even a personal tour, contact us.  
-</p>
 
 <h3>Our favorite stores</h3> 
 
@@ -89,6 +73,22 @@ cash.
   <strong style="color:#0A9396">Swaak 1892</strong><br>  
   <a href="https://www.gerstaecker.nl/utrecht-2/">Swaak 1892</a> is one of Marijne's favorite art supplies stores.
 </p>
+
+<h3>Day outings</h3> 
+<p>
+  <strong style="color:#0A9396">Kasteel de Haar</strong><br>  
+  This is a <a href="https://www.kasteeldehaar.nl/">beautiful castle</a>, where once a year a Renaissance fair is organized; 
+  <a href="https://www.instagram.com/kingdomofelfia/?hl=en">Elfia</a>. One could argue that Elfia 2019 was the moment Savannah and Marijne's relationship was truly solidified. A historic location!  
+</p>
+  
+<p>
+  <strong style="color:#0A9396">Woerden</strong><br>  
+  If you would like to visit <a href="https://www.beleefwoerden.com/nl">Woerden</a>,
+  Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
+  more picturesque Dutch town, it even has a windmill you can visit! If you want
+  more Woerden specific tips, or even a personal tour, contact us.  
+</p>
+
 
  
 
