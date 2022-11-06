@@ -10,9 +10,9 @@ title:  Our story
 <h3>Falling in love</h3>
 <p>
   In January of 2019, Marijne and Savannah both found themselves on Bumble. 
-  Marijne thought Savannah's account was fairly standard with "liking books and coffee", but one thing caught here eye; 
+  Marijne thought Savannah's account was fairly standard with "liking books and coffee", but one thing caught her eye; 
   the mention of a rather obscure Estonian composer of classical and religious music.
-  Marijne swiped right on the mention of Arvo Part. 
+  Marijne swiped right on the mention of Arvo Pärt. 
 </p>
 <p>
   After some texting back and forth, they met for their first date at bar Paulus in Amsterdam for wine and cheese. 
@@ -40,7 +40,8 @@ title:  Our story
   support and encouragement she didn't know she needed. It was a scary thing to
   do for a million reasons and neither Savannah nor Marijne had any crystal ball
   telling them that their relationship would flourish out of the closet - but
-  freedom tends to make things a lot better and their love grew stronger.
+  freedom to be yourself tends to make intimate relationships a lot better and
+  their love grew stronger.
 </p>
 <p>
   Late 2020, Marijne started feeling less happy with her PhD. 
