@@ -24,13 +24,12 @@ main {
   justify-content: center;
 
   .content {
-    min-width: 65%;
     margin: 1.5rem;
   }
 
   @media (min-width: 700px) {
     .content {
-      max-width: 900px;
+      max-width: 700px;
     }
   }
 }
@@ -43,13 +42,13 @@ main {
 
 a:link,
 a:visited {
-    color: #003946;
+  color: #003946;
 }
 
 
 h1 a:link,
 h1 a:visited {
-    color: #005F73;
+  color: #005F73;
 }
 
 .header {
@@ -98,10 +97,14 @@ ul li::before {
 .class_01 {
   font-family: 'Georgia';
   color: #001219;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .page {
+  p {
+    max-width: 700px;
+  }
+
   h2 {
     color: #CBA540;
     font-family: 'Aboreto', cursive;
@@ -110,9 +113,9 @@ ul li::before {
 
   h3 {
     color: #005F73;
-    font-size: 18px;
+    font-size: 20px;
   }
-  
+
   h4 {
     color: #0A9396;
     display: inline;
