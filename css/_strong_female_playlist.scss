@@ -1,0 +1,32 @@
+.song_grid {
+  display: grid;
+  grid-template-columns: 250px max-content;
+  grid-template-rows: 100%;
+
+  .span_2 {
+    grid-row: span 2;
+  }
+
+  .artist {
+    text-decoration: underline;
+    color: #005f73;
+  }
+
+  .bottom {
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+  }
+}
+
+.spotify_link {
+  text-decoration: none;
+}
+
+.spotify_link:hover {
+  text-decoration: underline;
+}
+
+h3.spotify_link_header {
+  font-size: 24px;
+}
+
