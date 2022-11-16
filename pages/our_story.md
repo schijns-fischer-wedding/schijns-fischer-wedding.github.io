@@ -55,6 +55,9 @@ title:  Our story
   Her new job fits her much better and she is now very excited to tell you more about taxes. 
 </p>
 
+<div class='story2-image'>
+</div>
+  
 <h3>Engagement</h3>
 <p>
   Late spring of 2022, Marijne realized with sudden and extreme clarity that she would propose to Savannah. 
@@ -74,4 +77,7 @@ title:  Our story
   She said yes. 
 </p>
 
+<div class='story3-image'>
+</div>
+  
 </div>
