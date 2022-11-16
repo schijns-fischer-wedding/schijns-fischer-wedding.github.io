@@ -26,6 +26,9 @@ title:  Our story
   Savannah casually talked about how she had very seriously wanted to be a falconer when she was younger. 
   Something about this made Marijne realize that she would never be bored with Savannah by her side. 
 </p>
+  
+<div class='story1-image'>
+</div>
 
 <h3>Corona years</h3>
 <p>
