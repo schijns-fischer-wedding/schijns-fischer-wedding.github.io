@@ -40,9 +40,8 @@ title: Wedding Getting Around
 <p>
   <strong style="color:#0A9396">Bikes</strong><br>
   Some hotels may offer bike rentals, but there are many options out there.
-  It is a great option if you'd like to explore the city as a local. For 
-  longer distances we recommend using an electric bike. Be careful with those 
-  though, they go fast.
+  This is a great option if you'd like to explore the city as a local. For 
+  longer distances we recommend using an electric bike. 
 </p>
 
 <h3>Taxis</h3>
@@ -58,11 +57,12 @@ park with them, this is not a given.
 </p>
 
 <h3>Hotels</h3>
-
-<ul>
-  <li>NH Utrecht City Centre </li>
-  <li>Hotel Beijers Utrecht </li>
-  <li>Mother Goose</li>
-</ul> 
+<p>
+  The <a href="https://www.nh-hotels.com">NH</a> is a reliable chain of hotels. They have two locations in Utrecht, 
+  one next to the central train station and one in the middle of the city center. 
+</p>
+<p>
+  Examples of more boutique hotels are <a href="https://www.hotelbeijers.com/">Hotel Beijers</a> and <a href="https://www.mothergoosehotel.com/en/">Mother Goose</a>.
+</p>
   
 </div> 
