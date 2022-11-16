@@ -67,7 +67,7 @@ title:  Our story
 </p>
 <p>
   On the big day itself, Marijne was more nervous than she would like to admit. 
-  Savannah may have suspected something, but the moment she saw the birds she forget everything she may have suspected. 
+  Savannah may have suspected something, but the moment she saw the birds she forgot everything she may have suspected. 
   Jelmer had prepared a workshop in which we got to hold and fly several birds of prey. 
   As the last bird was brought out, our photographer was spotted. 
   For Savannah, on a magical date with raptors it seemed perfectly normal that there was also a photographer present. 
