@@ -11,7 +11,7 @@ title: Wedding FAQ
 <p>
   Our Dutch guests understand English, but some may feel more comfortable expressing themselves in Dutch.  
   We encourage people to do speeches in whichever language they prefer, 
-  and to consider bringing a printed versions or send us an electronic version we can distribute in both languages.  
+  and to consider bringing a printed version or send us an electronic version we can distribute in both languages.  
 </p>
   
 <h3>What is a <em>stukje</em>? Can I do one?</h3> 
@@ -34,7 +34,7 @@ title: Wedding FAQ
 <h3>Can I bring my kid?</h3>  
 <p>
   We would love to have your kids present for our big day! 
-  We plan to have a longer dinner and we we understand that your kids need an adjusted menu or might not be entertained with this for long periods of time. 
+  We plan to have a longer dinner and we understand that your kids need an adjusted menu or might not be entertained with this for long periods of time. 
   If there is anything we can do to support you with this, we would love to help to see what's possible.  
   You're also very welcome to bring some games / toys to keep children entertained!  
 </p>
