@@ -17,13 +17,13 @@ title:  Our story
 <p>
   After some texting back and forth, they met for their first date at bar Paulus in Amsterdam for wine and cheese. 
   They decided they enjoyed each other's company, but that they would take it slow. 
-  Dear reader, it did not go slowly and the falling in love happened swiftly.
+  Dear guests, it did not go slowly and the falling in love happened swiftly.
 </p>
 <p>
   Nearly every year in the last decade, Marijne has visited Elfia, the biggest renaissance fair in the Netherlands. 
   Marijne and Savannah went there for their 5th date. 
-  After a full day of walking around, being tired, and having survived a hail storm, 
-  Savannah casually talked about how she had very seriously wanted to be a falconer. 
+  After a full day of walking around, enjoying the beautiful costumes, and having survived a hail storm, 
+  Savannah casually talked about how she had very seriously wanted to be a falconer when she was younger. 
   Something about this made Marijne realize that she would never be bored with Savannah by her side. 
 </p>
 
@@ -31,7 +31,7 @@ title:  Our story
 <p>
   Due to a series of coincidences, Marijne and Savannah both found themselves looking for a new home in December of 2019. 
   Though it was a little soon, they decided to combine forces and look for a home together. 
-  Just as they settled, corona hit in March 2020. 
+  Just as they settled in their new apartement, corona hit the Netherlands in March 2020. 
 </p>
 <p>
   Savannah discovered the person she had fallen in love with actually wanted her
@@ -44,10 +44,12 @@ title:  Our story
   their love grew stronger.
 </p>
 <p>
-  Late 2020, Marijne started feeling less happy with her PhD. 
+  Marijne had been a unsure about her carreer in science for a while. 
+  The additional stress of corona and working from home brought this to a boiling point. 
   After a lot of considering, she decided to quit her PhD in the spring of 2021. 
   It was a very difficult decision that she could only make with the support of Savannah. 
-  She has since found a job that she loves, with the dutch tax office. 
+  After a summer of recovering, including a trip to Paris and reading lots of books, Marijne starter her new job with the dutch tax office. 
+  Her new job fits her much better and she is now very excited to tell you more about taxes. 
 </p>
 
 <h3>Engagement</h3>
@@ -59,7 +61,14 @@ title:  Our story
 </p>
 <p>
   On the big day itself, Marijne was more nervous than she would like to admit. 
-  Savannah may have suspected something, but forget everything she may have known the moment she saw the birds. 
+  Savannah may have suspected something, but the moment she saw the birds she forget everything she may have suspected. 
+  Jelmer had prepared a workshop in which we got to hold and fly several birds of prey. 
+  As the last bird was brought out, our photographer was spotted. 
+  For Savannah, on a magical date with raptors it seemed perfectly normal that there was also a photographer present. 
+  The little burrowing owl, Poncho, flew to Savannah's hand. 
+  Savannah notices a white ribbon on Poncho's leg, but does not think much of it until people started pointing out that she should look closer. 
+  At that point, Marijne clipped the ring off the bird, went down on one knee and asked Savannah to marry her. 
+  She said yes. 
 </p>
 
 </div>
