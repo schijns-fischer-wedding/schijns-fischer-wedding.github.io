@@ -84,7 +84,8 @@ title: Wedding Things to Do
 <p>
   <strong style="color:#0A9396">Woerden</strong><br>  
   If you would like to visit <a href="https://www.beleefwoerden.com/nl">Woerden</a>,
-  Marijne's hometown, we recommend going on a sunny Saturday. You will not find a
+  Marijne's hometown, we recommend going on a sunny Saturday. Keep in mind that stores 
+  and most restaurants are closed on Sundays in Woerden. You will not find a
   more picturesque Dutch town, it even has a windmill you can visit! If you want
   more Woerden specific tips, or even a personal tour, contact us.  
 </p>
