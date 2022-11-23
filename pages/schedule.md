@@ -21,7 +21,6 @@ title:  Schedule
   <p>
     Utrecht City Hall, Grote Zaal (big hall)
     <br>
-    <br>
     Stadhuisbrug 1, 3511 JK Utrecht
   </p>
 
@@ -35,13 +34,12 @@ title:  Schedule
   <p>
     <a href="https://www.wilhelminapark.nl/">Wilhelminapark</a>
     <br>
-    <br>
     Wilhelminapark 65, 3581 NP Utrecht
   </p>
 
   <p>
-    Dinner and reception will be at the same locatoin, the restaurant Wilhelminapark. 
-    Don't be confused by the fact that the restaurant has the same name as the park! 
+    Dinner and reception will be at the same location, the restaurant Wilhelminapark. 
+    The restaurant has the same name as the park it is located in, this can be a little confusing. 
   </p>
 
   <p>
@@ -53,14 +51,15 @@ title:  Schedule
   </p>
   
   <p>
-    During the reception there will be drinks and bites available. During the reception
-    we hope to get some beautiful pictures around the location, so be sure to be available! 
+    We will have a first toast at the reception, where drinks and bites will be served. 
+    We also hope to have some pictures with our guests at this time. 
   </p>
   
   <h3>Dinner | 19.00</h3>
   
   <p>
-    Around 19.00 we will start our dinner. If the weather allows it, we will sit outside. 
+    Around 19.00 we will start our dinner at restaurant Wilhelminapark. 
+    If the weather allows it, we will sit outside. 
     We will have a vegetable-heavy dinner, with some fish options. Be sure in the RSVP to
     indicate whether you would like the fish, otherwise we will assume you prefer the 
     vegetarian option. 
