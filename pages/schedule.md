@@ -26,7 +26,7 @@ title:  Schedule
 
   <p>
     Please arrive at least 15 minutes before the start of the ceremony in
-    order to find your seat. Parking here can be though, see <a href="https://schijns-fischer-wedding.github.io/pages/getting_around.html">getting around</a> for details on how to use public transport. 
+    order to find your seat. Parking here can be tough, see <a href="https://schijns-fischer-wedding.github.io/pages/getting_around.html">getting around</a> for details on how to use public transport. 
   </p>
 
   <h3>Reception | 17.00</h3>
