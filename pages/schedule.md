@@ -39,7 +39,9 @@ title:  Schedule
 
   <p>
     Dinner and reception will be at the same location, the restaurant Wilhelminapark. 
-    The restaurant has the same name as the park it is located in, this can be a little confusing. 
+    The restaurant has the same name as the park it is located in, this can be a little 
+    confusing. If you are coming by car, set your navigation to Koningslaan 115 in 
+    Utrecht. With this adress you drive to the side of the park where most parking is available.
   </p>
 
   <p>
