@@ -41,7 +41,7 @@ title: Wedding FAQ
   
 <h3>RSVP deadline?</h3>  
 <p>
-  Please RSVP by February 28th, so we can have an accurate headcount.  
+  Please RSVP by March 7th, so we can have an accurate headcount.  
 </p>
   
 <h3>Can I make pictures?</h3>  
