@@ -1,10 +1,14 @@
 .song_grid {
   display: grid;
-  grid-template-columns: minmax(150px, 250px) minmax(150px, 250px);
+  grid-template-columns: minmax(150px, 250px) minmax(150px, 300px);
   grid-template-rows: max-content;
 
   .span_2 {
     grid-row: span 2;
+  }
+
+  .span_3 {
+    grid-row: span 3;
   }
 
   .artist {

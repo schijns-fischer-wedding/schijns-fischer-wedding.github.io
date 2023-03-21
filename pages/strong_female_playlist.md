@@ -13,7 +13,7 @@ title: Strong Female Playlist
 </div>
 
 <div class='song_grid'>
-  <div class='span_2 artist bottom'>Florence + The Machine</div>
+  <div class='span_3 artist bottom'>Florence + The Machine</div>
     <div>- King</div>
     <div>- Morning Elvis (feat. Ethel Cain)</div>
     <div class='bottom'>- Stand By Me</div>
