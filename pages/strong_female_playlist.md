@@ -15,6 +15,7 @@ title: Strong Female Playlist
 <div class='song_grid'>
   <div class='span_2 artist bottom'>Florence + The Machine</div>
     <div>- King</div>
+    <div>- Morning Elvis (feat. Ethel Cain)</div>
     <div class='bottom'>- Stand By Me</div>
   <div class='artist bottom'>Girl in Red</div><div class='bottom'>- October Passed Me By</div>
   <div class='artist bottom'>Sadurn</div><div class='bottom'>- snake</div>
@@ -24,10 +25,10 @@ title: Strong Female Playlist
   <div class='artist bottom'>Patti Smith</div><div class='bottom'>- Because of the Night</div>
   <div class='artist bottom'>Laura Stevenson</div><div class='bottom'>- Living Room, NY</div>
   <div class='artist bottom'>Angie McMahon</div><div class='bottom'>- Tea, Milk, & Honey</div>
+  <div class='artist bottom'>Slow Club</div><div class='bottom'>- Christmas TV</div>
   <div class='span_2 artist bottom'>Hop Along</div>
     <div>- Well Dressed</div>
     <div class='bottom'>- Tibetan Pop Stars</div>
-  <div class='artist bottom'>Hospital Bracelet</div><div class='bottom'>- Sober Haha Jk Unless</div>
   <div class='span_2 artist bottom'>Chappel Roan</div>
     <div>- Pink Pony Club</div>
     <div class='bottom'>- Naked in Manhattan</div>
@@ -37,7 +38,7 @@ title: Strong Female Playlist
   <div class='span_2 artist bottom'>Sidney Gish</div>
     <div>- Persephone</div>
     <div class='bottom'>- Presumably Dead Arm</div>
-  <div class='artist bottom'>Stick and Poke</div><div class='bottom'>- I Don't Even Smoke</div>
+  <div class='artist bottom'>Pigeon Pit</div><div class='bottom'>- Milk Crates</div>
   <div class='artist bottom'>P.S. Eliot</div><div class='bottom'>- Tennessee</div>
   <div class='artist bottom'>Soccer Mommy</div><div class='bottom'>- circle the drain</div>
   <div class='artist bottom'>The Ophelias</div><div class='bottom'>- General Electric</div>
